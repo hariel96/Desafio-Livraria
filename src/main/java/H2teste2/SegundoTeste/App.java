@@ -19,6 +19,7 @@ public class App
 			String ler = "SELECT * from itens_da_venda";
 			PreparedStatement preparaLer = conn.prepareStatement (ler);
 			preparaLer.execute();
+			
     		
     		
     		
