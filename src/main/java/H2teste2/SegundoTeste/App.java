@@ -20,6 +20,7 @@ public class App
 			PreparedStatement preparaLer = conn.prepareStatement (ler);
 			preparaLer.execute();
 			
+			
     		
     		
     		
